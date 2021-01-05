@@ -3,10 +3,10 @@ body{
     font-family: 'Bree Serif', serif;
 }
 h1{
-    font-size: 50px;
+    font-size: 279%; /*50px*/
 }
 #my-name-highlight{
-    font-size: 61px;
+    font-size: 122%; /*61px*/
     background: -webkit-linear-gradient(45deg, #00FFCC,#1A93F5);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -17,7 +17,7 @@ p{
     color: #551A8B;
 }
 .firstletter-fontsize{
-    font-size: 24px;
+    font-size: 150%; /*24px*/
     
 }
 .width{
@@ -34,10 +34,10 @@ p{
 #top-section-banner{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
-    padding-bottom: 350px;
+    padding-bottom: 46%; /*350px;*/
 }
 section{
-    height: 500px;
+    height: 31%;/*500px;*/
 }
 .link-button{
     color:white;
